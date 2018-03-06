@@ -1,6 +1,8 @@
 ---
 title: Test
-description: Test
+description: >-
+  Test
+
 
 ---
 ## Sample exercise
@@ -10,30 +12,46 @@ type: NormalExercise
 lang: python
 xp: 100
 skills: 2
-key: 54aef53f18
+key: c1fd391f72
 ```
 
+print(2+3)
 
 `@instructions`
+you need to print some data
 
 `@hint`
 
-`@pre_exercise_code`
-```{python}
 
+
+
+
+
+
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: BulletExercise
+
+xp: undefined
+
+key: 194844f8bb
 ```
 
-`@sample_code`
-```{python}
 
-```
 
-`@solution`
-```{python}
 
-```
 
-`@sct`
-```{python}
 
-```
+
+
+
+
+
+
+
